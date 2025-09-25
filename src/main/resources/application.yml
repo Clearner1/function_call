@@ -1,0 +1,9 @@
+spring:
+  application:
+    name: function_call
+  main:
+    web-application-type: servlet
+  ai:
+    dashscope:
+      api-key: sk-3aeeb27d155c4d14bf8548affeaa8d19
+      base-url: https://dashscope.aliyuncs.com/compatible-mode/v1
